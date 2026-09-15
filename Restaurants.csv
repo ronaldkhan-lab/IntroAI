@@ -5,9 +5,9 @@ RestaurantNo,hasAlternative,hasBar,OpenWE,isHungry,PatVol,Cost,isRaining,canRese
 4,Yes,No,Yes,Yes,Full,Cheap,Yes,No,Thai,10-30,Yes
 5,Yes,No,Yes,No,Full,Expensive,No,Yes,French,>60,No
 6,No,Yes,No,Yes,Some,Reasonable,Yes,Yes,Italian,0-10,Yes
-7,No,Yes,No,No,None,Cheap,Yes,No,Burger,0-10,No
+7,No,Yes,No,No,Minimal,Cheap,Yes,No,Burger,0-10,No
 8,No,No,No,Yes,Some,Reasonable,Yes,Yes,Thai,0-10,Yes
 9,No,Yes,Yes,No,Full,Cheap,Yes,No,Burger,>60,No
 10,Yes,Yes,Yes,Yes,Full,Expensive,No,Yes,Italian,10-30,No
-11,No,No,No,No,None,Cheap,No,No,Thai,0-10,No
+11,No,No,No,No,Minimal,Cheap,No,No,Thai,0-10,No
 12,Yes,Yes,Yes,Yes,Full,Cheap,No,No,Burger,30-60,Yes
